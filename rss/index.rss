@@ -1,4 +1,10 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Blog :: Rodrigo Sangorrin</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sat, 13 Feb 2016 07:37:45 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list&lt;/p&gt;</description><link>http://localhost:2368/welcome-to-ghost/</link><guid isPermaLink="false">e418b71c-f801-4f1d-8aa5-7b7a1cf15efa</guid><category>Getting Started</category><dc:creator>Rodrigo Sangorrin</dc:creator><pubDate>Fri, 12 Feb 2016 03:06:18 GMT</pubDate><content:encoded>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Rodrigo Sangorrin</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sat, 13 Feb 2016 09:09:41 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Perfil</title><description>&lt;p&gt;Soy estudiante autodidacta del mundo del desarrollo web&lt;/p&gt;
+
+&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
+
+&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would.&lt;/p&gt;</description><link>http://localhost:2368/perfil/</link><guid isPermaLink="false">e418b71c-f801-4f1d-8aa5-7b7a1cf15efa</guid><category>Getting Started</category><dc:creator>Rodrigo Sangorrin</dc:creator><pubDate>Fri, 12 Feb 2016 03:06:18 GMT</pubDate><media:content url="https://bitcalm.com/media/2015/4/4/3cbd7ee7ff4740aba44853a852136391.jpg" medium="image"/><content:encoded>&lt;img src="https://bitcalm.com/media/2015/4/4/3cbd7ee7ff4740aba44853a852136391.jpg" alt="Perfil"&gt;&lt;p&gt;Soy estudiante autodidacta del mundo del desarrollo web&lt;/p&gt;
 
 &lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
 
@@ -29,7 +35,7 @@
 
 &lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="The Ghost Logo"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="Perfil"&gt;&lt;/p&gt;
 
 &lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
 
